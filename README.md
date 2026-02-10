@@ -8,7 +8,7 @@
 <hr>
 
 <h2> Overview</h2>
-
+ 
 <p>
   <b>Mini Quantum Lab</b> is an educational web simulator designed to help learners explore the fundamentals of
   <b>quantum mechanics</b> and <b>quantum computing</b> interactively.<br><br>
